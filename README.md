@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [2350-find-closest-number-to-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2350-find-closest-number-to-zero) |
 <!---LeetCode Topics End-->

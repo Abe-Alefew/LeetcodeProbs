@@ -57,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0001-two-sum) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

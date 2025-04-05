@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1013-fibonacci-number) |
 | [2083-three-divisors](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2083-three-divisors) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1894-merge-strings-alternately) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2350-find-closest-number-to-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2350-find-closest-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

@@ -1,14 +1,7 @@
 class Solution {
 public:
      //integer checker funcetion
-        bool isInteger(string num){
-            try{
-                num = stoi(num);
-                return true;
-            }catch (...){
-                return false;
-            }
-        }
+        
     int calPoints(vector<string>& operations) {
 
         //create a stack
@@ -17,10 +10,8 @@ public:
        
 
         for(int i=0; i< operations.size(); i++){
-            if(isInteger(operations[i])){
-                myStack.push(stoi(operations[i]));
-            }
-            else if(operations[i] == "+" && myStack.size()>=2){
+            
+            if(operations[i] == "+" && myStack.size()>=2){
                 int sum = myStack.top();
                 int x = myStack.top();
                 myStack.pop();
@@ -35,6 +26,8 @@ public:
             }
             else if (operations[i] == "C" && myStack.size() >= 1){
                 myStack.pop();
+            }else{
+                myStack.push(stoi(operations[i]));
             }
             }
 

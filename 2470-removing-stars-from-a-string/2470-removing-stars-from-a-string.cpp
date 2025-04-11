@@ -1,18 +1,23 @@
 class Solution {
 public:
     string removeStars(string s) {
-        string res;
+        stack<char> res;
         for(char elem:s){
             if(elem == '*' && !res.empty()){
-                res.pop_back();
+                res.pop();
             }else{
                 if(elem != '*'){
-                    res.push_back(elem);
+                    res.push(elem);
                 }
             }
         }
 
-        
-        return res;
+        string reversed = "";
+        while(!res.empty()){
+            reversed +=res.top();
+            res.pop();
+        }
+        std::reverse(reversed.begin(), reversed.end());
+        return reversed;
     }
 };

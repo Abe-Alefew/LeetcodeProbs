@@ -61,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0392-is-subsequence) |
+| [1720-crawler-log-folder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0682-baseball-game) |
+| [1720-crawler-log-folder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1720-crawler-log-folder) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0228-summary-ranges) |
 | [0682-baseball-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0682-baseball-game) |
+| [1720-crawler-log-folder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1720-crawler-log-folder) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table

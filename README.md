@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1013-fibonacci-number) |
 | [2083-three-divisors](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2491-smallest-even-multiple) |
@@ -115,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->

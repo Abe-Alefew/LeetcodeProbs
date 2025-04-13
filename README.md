@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1013-fibonacci-number) |
 | [2083-three-divisors](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2083-three-divisors) |

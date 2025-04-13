@@ -8,9 +8,9 @@ public:
         }
 
         for (int i = 0; i < length; i++){
-            int diff = target - nums[i];
-            if (map.find(diff) != map.end() && map[diff] != i){
-                return {i, map[diff]};//checking on the hashmap
+            int diffr = target - nums[i];
+            if (map.find(diffr) != map.end() && map[diffr] != i){
+                return {i, map[diffr]};//checking on the hashmap
             }
         }
 

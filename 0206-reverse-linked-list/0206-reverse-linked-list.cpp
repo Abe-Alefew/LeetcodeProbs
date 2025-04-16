@@ -12,15 +12,13 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
         // using three pointers
-
-        ListNode* before = nullptr;
         ListNode* temp = head;
-        while(temp != nullptr){
+        ListNode* before = nullptr;
+        while(temp){
             ListNode* after = temp -> next;
             temp -> next = before;
             before = temp;
             temp = after;
-
         }
 
         return before;

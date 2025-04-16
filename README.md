@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0258-add-digits) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0228-summary-ranges) |
 | [0682-baseball-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1720-crawler-log-folder) |

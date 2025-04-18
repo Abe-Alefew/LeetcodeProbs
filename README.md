@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0682-baseball-game) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1656-count-good-triplets](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1656-count-good-triplets) |
 | [1720-crawler-log-folder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1720-crawler-log-folder) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -129,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0202-happy-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0088-merge-sorted-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Trie
 |  |
 | ------- |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2573-remove-nodes-from-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

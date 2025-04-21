@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1013-fibonacci-number) |
 | [2083-three-divisors](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2083-three-divisors) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search

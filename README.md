@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Geometry
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |

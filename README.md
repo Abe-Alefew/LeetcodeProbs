@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2083-three-divisors) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2288-count-operations-to-obtain-zero) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2491-smallest-even-multiple](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2083-three-divisors) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Dynamic Programming
 |  |
 | ------- |

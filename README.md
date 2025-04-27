@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1720-crawler-log-folder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1970-sorting-the-sentence) |

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3625-stone-removal-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3625-stone-removal-game) |
 ## Geometry
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2470-removing-stars-from-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2551-apply-operations-to-an-array) |
+| [3625-stone-removal-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3625-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |

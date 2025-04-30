@@ -6,9 +6,6 @@ public:
             n-=count;
             count--;
         }
-        if(count%2 == 0){
-            return true;
-        }
-        return false;
+        return count%2 == 0;
     }
 };

@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2406-decode-the-message](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2470-removing-stars-from-a-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Stack
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0202-happy-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1500-count-largest-group) |
+| [2406-decode-the-message](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2406-decode-the-message) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Sorting
 |  |

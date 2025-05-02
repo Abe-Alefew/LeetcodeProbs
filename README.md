@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0878-shifting-letters) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1651-shuffle-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1894-merge-strings-alternately) |
 | [1954-replace-all-digits-with-characters](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1954-replace-all-digits-with-characters) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1646-kth-missing-positive-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1646-kth-missing-positive-number) |
+| [1651-shuffle-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1656-count-good-triplets) |
 | [1720-crawler-log-folder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1720-crawler-log-folder) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1878-check-if-array-is-sorted-and-rotated) |

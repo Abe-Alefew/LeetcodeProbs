@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0168-excel-sheet-column-title) |
+| [0257-binary-tree-paths](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -300,9 +303,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0112-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

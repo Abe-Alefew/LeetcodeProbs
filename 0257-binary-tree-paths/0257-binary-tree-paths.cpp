@@ -11,16 +11,28 @@
  */
 class Solution {
 public:
-    void findPath(TreeNode* node, vector<string>& ans, string temp) {
-        temp += to_string(node->val);  // Add the current node value to the path
-        if (node->left) findPath(node->left, ans, temp + "->");  // Traverse left
-        if (node->right) findPath(node->right, ans, temp + "->"); // Traverse right
-        if (!node->left && !node->right) ans.push_back(temp);  // Add path if leaf node
-    }
+    void dfs(TreeNode* root, string path, vector<string>& ans){
+        if(!root) return;
+        if(path.length()!= 0){
+            path += "->";
+        }
+        path+= to_string(root->val);
+
+        //leaf node case
+        if(!root->left && !root->right){
+            ans.push_back(path);
+            return;
+        }
+        //recursive case
+        if(root->left)  dfs(root->left,path,ans);
+        if(root->right)  dfs(root->right,path,ans);
+    };
 
     vector<string> binaryTreePaths(TreeNode* root) {
-        vector<string> ans;
-        if (root) findPath(root, ans, "");  // Start traversal from the root
-        return ans;
+        vector<string> res;
+        string path;
+        dfs(root,path,res);
+        return res;
     }
+
 };

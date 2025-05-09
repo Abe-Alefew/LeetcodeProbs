@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0633-sum-of-square-numbers) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
+| [0961-long-pressed-name](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0961-long-pressed-name) |
 | [1894-merge-strings-alternately](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2128-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2551-apply-operations-to-an-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0878-shifting-letters) |
+| [0961-long-pressed-name](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0961-long-pressed-name) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1651-shuffle-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1720-crawler-log-folder) |

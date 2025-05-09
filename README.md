@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2128-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2551-apply-operations-to-an-array) |
+| [2634-minimum-common-value](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1500-count-largest-group) |
 | [2406-decode-the-message](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2406-decode-the-message) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2634-minimum-common-value](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Linked List
 |  |

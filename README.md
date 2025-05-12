@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2998-count-symmetric-integers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2998-count-symmetric-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3625-stone-removal-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2083-three-divisors) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2998-count-symmetric-integers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
 | ------- |

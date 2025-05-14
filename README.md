@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2998-count-symmetric-integers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2998-count-symmetric-integers) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3625-stone-removal-game) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table

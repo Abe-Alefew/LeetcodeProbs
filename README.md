@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2470-removing-stars-from-a-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1656-count-good-triplets) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2573-remove-nodes-from-linked-list) |
 ## Counting Sort
 |  |

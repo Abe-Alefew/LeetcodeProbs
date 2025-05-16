@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0643-maximum-average-subarray-i) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1500-count-largest-group) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1970-sorting-the-sentence) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2699-count-the-number-of-fair-pairs) |

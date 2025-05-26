@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1500-count-largest-group) |

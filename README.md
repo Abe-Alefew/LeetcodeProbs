@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0367-valid-perfect-square) |
+| [0598-range-addition-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0598-range-addition-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0739-daily-temperatures) |

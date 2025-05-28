@@ -1,23 +1,26 @@
 class Solution {
 public:
- bool isAnagram(string s, string t) {
-        if (s.length() != t.length()) return false;
-        vector<int> count(26, 0);
-        for (int i = 0; i < s.length(); ++i) {
-            count[s[i] - 'a']++;
-            count[t[i] - 'a']--;
-        }
-        for (int i = 0; i < 26; ++i) {
-            if (count[i] != 0) return false;
-        }
-        return true;
-    }
     vector<int> findAnagrams(string s, string p) {
-        vector<int> output;
-        int n = p.length();
-        for(int i = 0; i < s.length(); i++){
-            if(isAnagram(s.substr(i,n),p)) output.push_back(i);
+        if(s.length() < p.length()) return {};
+
+        array<int,26> freqP = {};
+        array<int,26> win = {};
+
+        for(int i = 0; i < p.length(); i++){
+            freqP[p[i]-'a']++;
+            win[s[i]-'a']++;
         }
+
+        vector<int> output;
+        if(freqP == win) output.push_back(0);
+
+        for(int i = p.length(); i <s.length(); i++){
+            win[s[i-p.length()]-'a']--;
+            win[s[i]-'a']++;
+
+            if(freqP == win) output.push_back(i- p.length()+1);
+        }
+
         return output;
     }
 };

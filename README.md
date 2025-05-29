@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0482-license-key-formatting](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0482-license-key-formatting) |
 | [0782-jewels-and-stones](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |

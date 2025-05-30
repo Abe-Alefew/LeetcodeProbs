@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0878-shifting-letters) |
 | [0961-long-pressed-name](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0961-long-pressed-name) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1651-shuffle-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1651-shuffle-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1720-crawler-log-folder) |

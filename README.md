@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0461-hamming-distance) |
 ## Simulation
 |  |
 | ------- |

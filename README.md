@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2998-count-symmetric-integers) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2406-decode-the-message) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2634-minimum-common-value](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2634-minimum-common-value) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |

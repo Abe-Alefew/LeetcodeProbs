@@ -2,11 +2,10 @@ class Solution {
 public:
     int hammingDistance(int x, int y) {
         int dis = 0;
-        int xr = x ^ y;
-        while( xr){
-            xr &= xr - 1;
-            dis++;
-
+        while(x || y){
+           if(x % 2 != y % 2) dis++;
+           x /= 2;
+           y /= 2;
         }
         return dis;
     }

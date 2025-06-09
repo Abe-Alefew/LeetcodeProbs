@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0937-online-stock-span) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1497-design-a-stack-with-increment-operation) |
 ## String Matching
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2573-remove-nodes-from-linked-list) |
 ## Counting Sort
@@ -460,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0036-valid-sudoku) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0680-valid-palindrome-ii) |
+| [0753-open-the-lock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0739-daily-temperatures) |
+| [0753-open-the-lock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0792-binary-search) |
 | [0878-shifting-letters](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0878-shifting-letters) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0753-open-the-lock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0112-path-sum) |
+| [0753-open-the-lock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0753-open-the-lock) |
 | [0871-keys-and-rooms](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0871-keys-and-rooms) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2121-find-if-path-exists-in-graph) |

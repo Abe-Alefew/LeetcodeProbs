@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0542-01-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0542-01-matrix) |
 | [0598-range-addition-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0682-baseball-game) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0112-path-sum) |
+| [0542-01-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0542-01-matrix) |
 | [0753-open-the-lock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0753-open-the-lock) |
 | [0871-keys-and-rooms](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0871-keys-and-rooms) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0036-valid-sudoku) |
+| [0542-01-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0542-01-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Data Stream

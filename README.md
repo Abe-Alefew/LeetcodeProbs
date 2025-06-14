@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
+| [0529-minesweeper](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0542-01-matrix) |
 | [0598-range-addition-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0643-maximum-average-subarray-i) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
+| [0529-minesweeper](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0529-minesweeper) |
 | [0690-employee-importance](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0695-max-area-of-island) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
+| [0529-minesweeper](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0695-max-area-of-island) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0130-surrounded-regions) |
+| [0529-minesweeper](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0945-snakes-and-ladders) |

@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1651-shuffle-string) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0871-keys-and-rooms](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0871-keys-and-rooms) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0695-max-area-of-island) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1876-map-of-highest-peak) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Data Stream

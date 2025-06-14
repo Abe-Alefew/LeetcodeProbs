@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0690-employee-importance) |
 | [0753-open-the-lock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0783-search-in-a-binary-search-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0871-keys-and-rooms](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0871-keys-and-rooms) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2121-find-if-path-exists-in-graph) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0783-search-in-a-binary-search-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1876-map-of-highest-peak) |

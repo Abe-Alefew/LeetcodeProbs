@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1500-count-largest-group) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2083-three-divisors) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2206-detonate-the-maximum-bombs) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2206-detonate-the-maximum-bombs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Number Theory
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2058-concatenation-of-array) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2206-detonate-the-maximum-bombs) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2331-intersection-of-multiple-arrays) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2206-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2206-detonate-the-maximum-bombs) |
 ## Backtracking
 |  |
 | ------- |
@@ -546,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2206-detonate-the-maximum-bombs) |
 ## Matrix
 |  |
 | ------- |

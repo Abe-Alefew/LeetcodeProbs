@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0680-valid-palindrome-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0542-01-matrix) |
 | [0598-range-addition-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0643-maximum-average-subarray-i) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
 | [0690-employee-importance](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0690-employee-importance) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0127-word-ladder) |
+| [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0690-employee-importance) |
 | [0753-open-the-lock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0753-open-the-lock) |
@@ -493,10 +497,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
 | [0871-keys-and-rooms](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -520,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0783-search-in-a-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->

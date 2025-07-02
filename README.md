@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/3581-the-two-sneaky-numbers-of-digitville) |

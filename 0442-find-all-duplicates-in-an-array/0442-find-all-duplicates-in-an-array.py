@@ -1,7 +1,7 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
         dup = {}
-        nums.sort()
+        
         
         for i in range(len(nums)):
             if nums[i] not in dup:

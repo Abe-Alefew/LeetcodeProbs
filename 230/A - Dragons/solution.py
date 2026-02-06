@@ -1,0 +1,1 @@
+s, d = map(int, input().split()) dragons_to_slay = [] for i in range(d):    ds, bonus = map(int, input().split())    dragons_to_slay.append((ds, bonus)) dragons_to_slay.sort() wins = Truefor i,j in dragons_to_slay:    if i < s:        s += j    else:        wins = False if wins:    print("YES")else:    print("NO")

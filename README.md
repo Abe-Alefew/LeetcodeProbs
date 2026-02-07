@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2406-decode-the-message](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2470-removing-stars-from-a-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2206-detonate-the-maximum-bombs) |
 | [2239-find-closest-number-to-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2239-find-closest-number-to-zero) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2350-find-closest-number-to-zero) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1500-count-largest-group) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2331-intersection-of-multiple-arrays) |
 | [2406-decode-the-message](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2406-decode-the-message) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1970-sorting-the-sentence) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2331-intersection-of-multiple-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Trie
